@@ -1,0 +1,76 @@
+body {
+background-color: #000000;
+width: 1920px;
+height: 420px;
+}
+
+.logo {
+width: 112px;
+height: 36px;
+margin: auto;
+padding-bottom: 50px;
+padding-top: 120px;
+}
+
+.text {
+width: 166px;
+height: 14px;
+color: #ffffff;
+font-family: "Open Sans";
+font-size: 20px;
+font-weight: 400;
+text-transform: uppercase;
+letter-spacing: 1px;
+margin: auto;
+margin-bottom: 20px;
+}
+
+hr {
+    width: 230px;
+}
+
+span {
+    color: #00c7fc;
+}
+
+.images {
+    width: 150px;
+    height: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.fb-logo {
+    width: 7px;
+    height: 15px;
+    margin-right: 25px;
+}
+.twitter-logo {
+    width: 15px;
+    height: 12px;
+    margin-right: 25px;
+}
+
+.google-logo {
+    width: 16px;
+    height: 15px;
+    margin-right: 25px;
+}
+
+.dribble-logo{
+    width: 15px;
+    height: 15px;
+}
+
+.copyright {
+    width: 250px;
+    height: 16px;
+    color: #ffffff;
+    font-family: "Open Sans - Semibold";
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 40px;
+    margin-top: 80px;
+    }
